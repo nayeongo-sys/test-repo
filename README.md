@@ -22,6 +22,10 @@ https://github.com/user-attachments/assets/e21a37db-d98c-4f85-89cd-50f49aca8c9b
 
 ## 에디터 라이브러리 비교
 
+
+<img width="1362" height="692" alt="image" src="https://github.com/user-attachments/assets/549dea60-b3ab-47da-8e94-b3a1477e7325" />
+
+
 | 라이브러리 | 장점 (요구 기능 관점) | 단점 / 고려할 점 |
 | --- | --- | --- |
 | **TipTap** | - `@tiptap/extension-text-align`으로 정렬 지원 (left, center, right, justify)<br>- 폰트 스타일, 색상, 형광펜 등 다양한 커스텀 extension 구축 가능<br>- 이미지, 테이블, 링크 등 삽입 확장성 매우 높음<br>- ProseMirror 기반이라 구조적이고 안정적<br>- Next.js + React 환경에서 훌륭한 지원<br>- **HTML, JSON, Markdown** 출력 지원 | - 초기 설정이 조금 복잡할 수 있음<br>- UI 컴포넌트(툴바 등)를 직접 만들어야 할 수 있음<br>- 번들 사이즈 증가 가능성 및 커스터마이징 유지보수 비용 고려 필요 |
